@@ -1,5 +1,5 @@
 # Store-Redux
-A store front that uses Context API to manage global state
+A store front that uses Redux to manage global state
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -27,7 +27,7 @@ A store front that uses Context API to manage global state
 
 ## <a id="description"></a>Description
 
-* A shopping app that allows sign up/log in, a shopping cart to hold store items using React and Context to manage global state
+* A shopping app that allows sign up/log in, a shopping cart to hold store items using React and react-Redux to manage global state
 
 ## <a id="technologies"></a>Technologies and Skills Demonstrated
 
@@ -43,7 +43,7 @@ A store front that uses Context API to manage global state
 
 ## <a id="sample"></a>Visit the App deployed on Heroku
 
-* [Link to Deployed Application]()
+* [Link to Deployed Application](https://hidden-depths-95251.herokuapp.com/)
 
 ## <a id="installation"></a>Installation
 
