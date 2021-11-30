@@ -39,9 +39,7 @@ A store front that uses Context API to manage global state
 
 ## <a id="screenshot"></a>Screenshots
 
-![Screenshot of App in use](./client/public/assets/images/SRSS1.png)
-
-![Screenshot of App in use](./client/public/assets/images/SRSS2.png)
+![Screenshot of App in use](./client/public/images/SRSS1.png)
 
 ## <a id="sample"></a>Visit the App deployed on Heroku
 
